@@ -3,7 +3,7 @@ Interested in making high-quality creative solutions using the latest technologi
 - 📫 Open for a full-time job, consultant contract, or freelance work based on the offer.
 - 👀 Reach me: mnourzk@outlook.com
 
-
+Please remember that you will not find a code or a screenshot, almost all my work is company or client private and I can't share it.
 <!---
 Mohammad-Nour-Rezek/Mohammad-Nour-Rezek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
