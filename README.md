@@ -1,4 +1,4 @@
-# @Mohammad-Nour-Rezek is a Senior Full-Stack Software Engineer / Low-Code Tech Lead,
+# @Mohammad-Nour-Rezek is Senior Full-Stack Software Engineer / Low-Code BPA Tech Lead,
 Interested in delivering high-quality creative solutions using the latest technologies in creating software systems, especially Digital Transformation BPM/A, and Low-Coding using OutSystems, Nintex K2 process automation (on-prem and cloud), Web Applications, Databases, Integrations, and services with security using Microsoft .NET technologies stack and Angular in the border of best practices in software engineering concerns, with special skills in leading teams, and system analysis.
 - 📫 Open for a full-time job, consultant contract, or freelance work based on the offer.
 - 👀 Reach me: mnourzk@outlook.com
